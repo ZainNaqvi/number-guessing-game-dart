@@ -79,7 +79,7 @@ void main() {
   printReset(
       "_________________________________________________________________________");
   printWarning("THANK YOU SO MUCH FOR PLAYING THIS GAME");
-  printError("DESIGNED & DEVELOPED BY RAZA");
+  printError("DESIGNED & DEVELOPED BY SYED ZAIN HAIDER NAQVI");
 }
 
 // if user wants the hints in the game
